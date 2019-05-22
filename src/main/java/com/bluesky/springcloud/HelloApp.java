@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloApp {
     public static void main(String[] args) {
         // github 上的修改
+        // local modify
         SpringApplication.run(HelloApp.class, args);
     }
 }
